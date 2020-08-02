@@ -3255,7 +3255,7 @@ ul {
 .project_part .single_project_text {
   position: relative;
   padding-left: 100px;
-  width: 68%;
+  /* width: 68%; */
   margin-top: 65px;
 }
 
@@ -3282,7 +3282,7 @@ ul {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 26, ../../01 cl html template/New folder/May 2019/176 Interior Heaven/Interior Heaven Html/sass/_project_part.scss */
   .project_part .single_project_text {
-    padding-left: 61px;
+    /* padding-left: 61px; */
     width: 100%;
     margin-top: 35px;
     margin-bottom: 15px;
@@ -3292,7 +3292,7 @@ ul {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 26, ../../01 cl html template/New folder/May 2019/176 Interior Heaven/Interior Heaven Html/sass/_project_part.scss */
   .project_part .single_project_text {
-    padding-left: 90px;
+    /* padding-left: 90px; */
     width: 100%;
     margin-top: 35px;
     margin-bottom: 15px;
@@ -3750,7 +3750,7 @@ ul {
 
 /* line 5, ../../01 cl html template/New folder/May 2019/176 Interior Heaven/Interior Heaven Html/sass/_contact_us.scss */
 .contact_us .contact_us_iner {
-  background-color: #ff7e00;
+  background-color:#99ccff;
   padding: 95px 0px;
 }
 
